@@ -3,10 +3,6 @@
 #  the function will return the average age of adults.
 #  Print on console the result.
 
-
-#ages = [10, 87, 34, 23, 54, 44, 23, 11, 5]
-#p ages.sum/ages.length
-
 def average_adult_age (ages)
   adults = []
 
